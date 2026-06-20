@@ -1,3 +1,5 @@
+package Shift_zero_at_End;
+
 public class Shift_All_Zero_AtEnd {
     public static void main(String[] args) {
 
