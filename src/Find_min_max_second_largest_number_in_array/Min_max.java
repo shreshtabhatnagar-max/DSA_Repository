@@ -16,6 +16,7 @@ public class Min_max {
             else if (arr[i]>secMax && secMax!=max) {
                 secMax=arr[i];
             }
+
         }
         System.out.println("Here the maximum Element of arr "+max);
         System.out.println("Here the Second_maximum Element of arr "+secMax);
