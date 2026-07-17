@@ -3,6 +3,7 @@ package Rotate_An_array;
 public class Rotate_The_Array {
     public static void main(String[] args) {
         int[] arr = {10, 20, 40, 21, 44, 65, 3, 11};
+
         int n = arr.length;
         int k = 3;
         k = k % n;
